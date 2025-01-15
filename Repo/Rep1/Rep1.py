@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# ## A11.2022.1424_Faathir El Tasleem
+# ## A11.2022.14610_Bimo Cahyo WIdyanto
 
 # # Deskripsi Dataset
 # > Dataset yang Anda analisis adalah data kesehatan yang berisi informasi tentang partisipan dalam suatu studi atau penelitian. Dataset ini diambil dari lembar kerja Excel yang bernama '2022' dan mencakup berbagai variabel yang berkaitan dengan kesehatan dan kondisi sosial ekonomi partisipan.
